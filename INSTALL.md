@@ -10,7 +10,7 @@ Crear una base de datos postgres bd-peliculas
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### run Project
 ```
 npm run start:dev
 ```
